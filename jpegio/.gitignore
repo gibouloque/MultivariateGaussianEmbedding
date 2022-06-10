@@ -1,0 +1,13 @@
+*.pyd
+*.obj
+*.exp
+*.pyc
+
+.idea/
+.eggs/
+jpegio.egg-info/
+build/
+jpegio/decompressedjpeg.c
+jpegio/componentinfo.c
+jpegio/zigzagdctjpeg.c
+examples/.ipynb_checkpoints/
